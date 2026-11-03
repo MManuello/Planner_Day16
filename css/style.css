@@ -1,0 +1,2 @@
+.task-item { transition: opacity .3s, transform .3s; }
+.task-item.removing { opacity: 0; transform: translateX(20px); }
